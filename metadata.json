@@ -1,0 +1,6 @@
+{
+  "name": "AccessFlow",
+  "description": "Voice, gesture, and accessibility-focused macro automation tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
